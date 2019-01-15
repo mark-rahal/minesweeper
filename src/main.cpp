@@ -24,7 +24,7 @@ int main() {
     TileMap map;
     sf::Vector2i tileSize(32, 32);
     if (!map.load("assets/ms_tiles.png", tileSize, board, NUM_TILES, NUM_TILES))
-        return -1;
+        ;
 
     //let's set the view so that the entire board is fit to the screen
     sf::View view(sf::FloatRect(0, 0, BOARD_SIZE, BOARD_SIZE));
