@@ -9,6 +9,5 @@
 - [ ] Read in board data from a map file.
 - [ ] Save and load games.
 - [ ] Menu with options.
-- [ ] Multiplayer *Big Maybe*
 
 *More coming soon...*
